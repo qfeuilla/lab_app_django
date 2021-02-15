@@ -1,0 +1,50 @@
+img {
+    width: 20vw;
+    height: 25vw;
+}
+
+body {
+    background-color: #3c4db0;
+}
+
+#brandTitle {
+    margin-top: 30vh;
+    margin-left: 5vw;
+    font-family: "Courier New", Courier, monospace;
+    font-weight: 700;
+    text-decoration: rgb(68, 68, 68);
+    font-style: italic;
+    font-variant: small-caps;
+    text-transform: uppercase;
+    color: white;
+    font-size: 15vw;
+}
+
+#brandTitle {
+    margin-top: 10vh;
+    margin-left: 5vw;
+    margin-bottom: 0vh;
+    font-family: "Courier New", Courier, monospace;
+    font-weight: 700;
+    text-decoration: rgb(68, 68, 68);
+    font-style: italic;
+    font-variant: small-caps;
+    text-transform: uppercase;
+    color: white;
+    font-size: 15vw;
+}
+
+#underText {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 8vw;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: white;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    margin-top: 0vh;
+    margin-left: 20vw;
+}

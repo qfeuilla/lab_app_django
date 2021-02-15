@@ -1,0 +1,20 @@
+{% extends 'all.html' %}
+
+{% load static %}
+
+{% block title %}
+<title>HomePage</title>
+{% endblock %}
+
+{% block style %}
+<link rel="stylesheet" type="text/css" href="{% static 'css/home.css' %}" media="all">
+{% endblock %}
+
+
+{% block content %}
+<div id="brandTitle">
+    LAB <img src="{%static '/images/server.png' %}"> 42
+    <p id="underText">power your ideas</p>
+</div>
+{% endblock %}
+

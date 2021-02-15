@@ -1,0 +1,5 @@
+lab_app/db.sqlite3
+lab_app/Session/__pycache__
+lab_app/Machine/__pycache__
+lab_app/lab_app/__pycache__
+lab_app/.vscode
